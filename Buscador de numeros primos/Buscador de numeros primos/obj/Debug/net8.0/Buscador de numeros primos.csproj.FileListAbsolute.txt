@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\bin\Debug\net8.0\Buscador de numeros primos.exe
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\bin\Debug\net8.0\Buscador de numeros primos.deps.json
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\bin\Debug\net8.0\Buscador de numeros primos.runtimeconfig.json
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\bin\Debug\net8.0\Buscador de numeros primos.dll
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\bin\Debug\net8.0\Buscador de numeros primos.pdb
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\obj\Debug\net8.0\Buscador de numeros primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\obj\Debug\net8.0\Buscador de numeros primos.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\obj\Debug\net8.0\Buscador de numeros primos.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\obj\Debug\net8.0\Buscador de numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\obj\Debug\net8.0\Buscador de numeros primos.dll
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\obj\Debug\net8.0\refint\Buscador de numeros primos.dll
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\obj\Debug\net8.0\Buscador de numeros primos.pdb
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\obj\Debug\net8.0\Buscador de numeros primos.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Buscador de numeros primos\Buscador de numeros primos\obj\Debug\net8.0\ref\Buscador de numeros primos.dll
