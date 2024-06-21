@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\Refuerso-Reto- 3 C# angel-flores\\Lasar dados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCC14FB-4D95-4136-8362-F9ABEFA30A3A}|Lasar dados\\Lasar dados.csproj|c:\\users\\angel\\desktop\\refuerso-reto- 3 c# angel-flores\\lasar dados\\lasar dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCC14FB-4D95-4136-8362-F9ABEFA30A3A}|Lasar dados\\Lasar dados.csproj|solutionrelative:lasar dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Refuerso-Reto- 3 C# angel-flores\\Lasar dados\\Lasar dados\\Program.cs",
+              "RelativeDocumentMoniker": "Lasar dados\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Refuerso-Reto- 3 C# angel-flores\\Lasar dados\\Lasar dados\\Program.cs",
+              "RelativeToolTip": "Lasar dados\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:12:03.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

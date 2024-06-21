@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\bin\Debug\net8.0\Lasar dados.exe
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\bin\Debug\net8.0\Lasar dados.deps.json
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\bin\Debug\net8.0\Lasar dados.runtimeconfig.json
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\bin\Debug\net8.0\Lasar dados.dll
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\bin\Debug\net8.0\Lasar dados.pdb
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\obj\Debug\net8.0\Lasar dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\obj\Debug\net8.0\Lasar dados.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\obj\Debug\net8.0\Lasar dados.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\obj\Debug\net8.0\Lasar dados.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\obj\Debug\net8.0\Lasar dados.dll
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\obj\Debug\net8.0\refint\Lasar dados.dll
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\obj\Debug\net8.0\Lasar dados.pdb
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\obj\Debug\net8.0\Lasar dados.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\Lasar dados\Lasar dados\obj\Debug\net8.0\ref\Lasar dados.dll
