@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\Refuerso-Reto- 3 C# angel-flores\\gestor de inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F14B1F3-8AFD-4B24-BAAE-F243E3158929}|gestor de inventario\\gestor de inventario.csproj|c:\\users\\angel\\desktop\\refuerso-reto- 3 c# angel-flores\\gestor de inventario\\gestor de inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F14B1F3-8AFD-4B24-BAAE-F243E3158929}|gestor de inventario\\gestor de inventario.csproj|solutionrelative:gestor de inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Refuerso-Reto- 3 C# angel-flores\\gestor de inventario\\gestor de inventario\\Program.cs",
+              "RelativeDocumentMoniker": "gestor de inventario\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Refuerso-Reto- 3 C# angel-flores\\gestor de inventario\\gestor de inventario\\Program.cs",
+              "RelativeToolTip": "gestor de inventario\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:29:14.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

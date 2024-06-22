@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\bin\Debug\net8.0\gestor de inventario.exe
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\bin\Debug\net8.0\gestor de inventario.deps.json
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\bin\Debug\net8.0\gestor de inventario.runtimeconfig.json
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\bin\Debug\net8.0\gestor de inventario.dll
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\bin\Debug\net8.0\gestor de inventario.pdb
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\obj\Debug\net8.0\gestor de inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\obj\Debug\net8.0\gestor de inventario.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\obj\Debug\net8.0\gestor de inventario.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\obj\Debug\net8.0\gestor de inventario.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\obj\Debug\net8.0\gestor de inventario.dll
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\obj\Debug\net8.0\refint\gestor de inventario.dll
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\obj\Debug\net8.0\gestor de inventario.pdb
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\obj\Debug\net8.0\gestor de inventario.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Refuerso-Reto- 3 C# angel-flores\gestor de inventario\gestor de inventario\obj\Debug\net8.0\ref\gestor de inventario.dll
